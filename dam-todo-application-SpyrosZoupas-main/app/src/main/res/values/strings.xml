@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Todo Application</string>
+    <string name="task_name">Task Name:</string>
+    <string name="task_description">Task Description:</string>
+    <string name="create_task_button">Create Task</string>
+    <string name="new_task_title">New Task</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="temp_place_holder">place_holder</string>
+    <string name="task_database">task_database</string>
+    <string name="task_added_msg">Task added!</string>
+    <string name="task_name_req">Task Name required.</string>
+    <string name="task_updated_msg">Task Updated</string>
+    <string name="task_name_hint">Task Name</string>
+    <string name="task_desc_hint">Description</string>
+    <string name="save_btn_text">Save</string>
+</resources>
